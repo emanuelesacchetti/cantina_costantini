@@ -5,6 +5,8 @@ import AppHeroProducts from '../components/AppHeroProducts.vue';
 import AppProducts from '../components/AppProducts.vue';
 import AppHeroExperiences from '../components/AppHeroExperiences.vue';
 import AppExperiences from '../components/AppExperiences.vue';
+import Apptestimonials from '../components/Apptestimonials.vue';
+import AppEvent from '../components/AppEvent.vue';
 
 export default {
     name: 'AppHome',
@@ -14,7 +16,9 @@ export default {
         AppHeroProducts,
         AppProducts,
         AppHeroExperiences,
-        AppExperiences
+        AppExperiences,
+        Apptestimonials,
+        AppEvent
     }
 
 }
@@ -27,6 +31,8 @@ export default {
     <AppProducts />
     <AppHeroExperiences />
     <AppExperiences />
+    <Apptestimonials />
+    <AppEvent />
 </template>
 
 <style lang="scss"></style>

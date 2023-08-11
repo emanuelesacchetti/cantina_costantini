@@ -64,6 +64,14 @@ export default {
 </template>
 
 <style scoped lang="scss">
+header {
+    position: sticky;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    background-color: white;
+    opacity: 0.7;
+}
 .color-link {
     color: black;
     text-transform: uppercase;

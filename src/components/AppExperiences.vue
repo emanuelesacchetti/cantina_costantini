@@ -46,7 +46,7 @@ export default {
                     </div>
                 </div>
             </div>
-            <div class="row d-flex justify-content-center">
+            <div class="row d-flex justify-content-center mb-5">
                 <h2 class="text-center m-5 fst-italic">Le <span class="fw-bold fs-1">EXPERIENCES</span></h2>
                 <div></div>
 
@@ -120,7 +120,6 @@ export default {
         position: absolute;
         bottom: 0px;
         width: 100%;
-        //opacity: 0.9;
         margin: auto;
         height: 150px;
         display: flex;

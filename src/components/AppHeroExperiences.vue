@@ -5,15 +5,15 @@ export default {
 </script>
 
 <template>
-<div class="products-cont">
+    <div class="products-cont">
         <div class="wrapper">
             <div class="container h-100 d-flex justify-content-center align-items-center">
                 <div class="p-item d-flex align-items-center justify-content-center">
                     <div>
                         <p class="fs-5">UN VIAGGIO UNICO CON</p>
-                        
+
                         <p class="title"><span>DEGUSTAZIONI</span> <br>ED <span>EXPERIENCES</span></p>
-                        
+
                         <p class="fs-5">ALLA SCOPERTA DEL VINO</p>
                     </div>
                 </div>
