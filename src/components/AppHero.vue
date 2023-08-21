@@ -12,7 +12,7 @@ export default {
                     <div>
                         <p class="fs-5">DAL <span class="fs-2"> 1721</span></p>
 
-                        <p class="title">IL VINO DEI CASTELLI ROMANI</p>
+                        <p class="title">IL <span id="mimmo" class="fst-italic">VINO</span> DEI CASTELLI ROMANI</p>
 
                         <p class="fs-5">DI PADRE IN FIGLIO</p>
                     </div>
@@ -60,6 +60,12 @@ export default {
         .title {
             font-size: 60px;
             font-weight: 600;
+            /*
+            #mimmo {
+                mix-blend-mode: saturation;
+
+            }
+            */
         }
     }
 }</style>
